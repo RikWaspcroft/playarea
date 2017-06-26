@@ -15,7 +15,9 @@
              * From Visual Studio, right-clicked on the solution and selected "Manage Remotes", entered the git URL to the repository and browsed to the ppk file saved earlier
              * 
              * Testing: 
-             * Open project in visual studio you wish to push or push changes to GitHub. Right click, select "Git(<branch>)/Push" and select the remote repository and click Push
+             * Open project in visual studio you wish to push or push changes to GitHub. Right click, select "Git(<branch>)/Push" and select the remote repository and click "Push"
+             * The first time you push, you will need to enter the GitHub login credentials for the GitHub project.
+             * 
              */
         }
     }
