@@ -18,6 +18,7 @@
              * Open project in visual studio you wish to push or push changes to GitHub. Right click, select "Git(<branch>)/Push" and select the remote repository and click "Push"
              * The first time you push, you will need to enter the GitHub login credentials for the GitHub project.
              * 
+             * 
              */
         }
     }
